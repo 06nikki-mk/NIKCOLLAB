@@ -20,3 +20,14 @@ main()
  printf("area =",c);
  }
 
+
+area of triangle
+
+#include<stdio.h>
+main()
+{
+ int l=5;
+ int b=5;
+ float c = 0.5*l*b;
+ printf("area =",c);
+ }
