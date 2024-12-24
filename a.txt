@@ -8,3 +8,15 @@ main()
  int c=a*b;
  printf("area =",c);
  }
+
+
+area of square
+
+#include<stdio.h>
+main()
+{
+ int a=5;
+ int c=a*a;
+ printf("area =",c);
+ }
+
